@@ -1,0 +1,50 @@
+.q1{
+  text-align: center;
+  margin-bottom: 10%;
+  font-family: 'Courier New', Courier, monospace;
+  border-style: solid;
+}
+
+.q2{
+  text-align: center;
+  margin-bottom: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: dotted;
+  border-color: blue;
+}
+
+.q2text{
+  border-color: blue;
+  border-style: solid;
+  width: 30%;
+  margin-left: 35%;
+}
+
+.q3{
+  text-align: center;
+  margin-bottom: 10%;
+  font-family: monospace;
+  border-style: double;
+  border-color: green;
+}
+
+.q3Form > input{
+  margin-top: 2%;
+}
+
+.submit{
+  margin-top: 5%;
+}
+
+.q6{
+  text-align: center;
+  margin-bottom: 10%;
+  font-family: monospace;
+  border-style: groove;
+  border-color: red;
+}
+
+.result{
+  font-weight: bold;
+  color: red;
+}
